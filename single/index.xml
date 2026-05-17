@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Singles on Leonardo Benicio</title><link>https://lbenicio.dev/single/</link><description>Recent content in Singles on Leonardo Benicio</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://lbenicio.dev/single/index.xml" rel="self" type="application/rss+xml"/><item><title>App Marketing</title><link>https://lbenicio.dev/single/marketing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lbenicio.dev/single/marketing/</guid><description>&lt;p&gt;Discover our suite of thoughtfully crafted applications designed to enhance your digital experience. Each app is built with attention to detail, performance, and user privacy in mind.&lt;/p&gt;
+&lt;h2 id="our-apps"&gt;Our Apps&lt;/h2&gt;
+&lt;p&gt;We develop innovative solutions that prioritize:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;User Privacy&lt;/strong&gt;: Your data stays yours. No tracking, no selling, no compromises.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Performance&lt;/strong&gt;: Optimized for speed and efficiency across all supported devices.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Design&lt;/strong&gt;: Clean, intuitive interfaces that get out of your way.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accessibility&lt;/strong&gt;: Built for everyone, with support for screen readers and assistive technologies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="support"&gt;Support&lt;/h2&gt;
+&lt;p&gt;Need help with one of our apps? We&amp;rsquo;re here to assist:&lt;/p&gt;</description></item><item><title>Apps</title><link>https://lbenicio.dev/single/apps/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lbenicio.dev/single/apps/</guid><description>&lt;style&gt;
+ .app-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-top: 2rem; }
+ .app-card { border: 1px solid var(--border); border-radius: 16px; padding: 2rem; transition: transform .2s, box-shadow .2s; }
+ .app-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,.12); }
+ .app-icon { width: 88px; height: 88px; border-radius: 20px; margin-bottom: 1rem; }
+ .app-name { font-size: 1.3rem; font-weight: 700; margin: 0 0 .35rem; }
+ .app-desc { color: var(--muted); font-size: .9rem; margin: 0 0 1rem; line-height: 1.6; }
+ .app-features { list-style: none; padding: 0; margin: 0 0 1.25rem; }
+ .app-features li { font-size: .82rem; color: var(--muted); padding: .2rem 0; }
+ .app-features li::before { content: "• "; color: var(--accent); }
+ .app-link { display: inline-block; background: var(--accent); color: #fff; padding: .5rem 1.5rem; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: .9rem; transition: opacity .15s; }
+ .app-link:hover { opacity: .85; }
+ .platform-tag { display: inline-block; font-size: .72rem; padding: .2rem .6rem; border-radius: 6px; background: var(--card); margin-right: .4rem; }
+&lt;/style&gt;
+&lt;h2 id="macos-apps"&gt;macOS Apps&lt;/h2&gt;
+&lt;div class="app-grid"&gt;
+&lt;div class="app-card"&gt;
+ &lt;img src="https://lbenicio.dev/apps/icons/tubekit.png" alt="TubeKit" class="app-icon" /&gt;
+ &lt;h3 class="app-name"&gt;TubeKit&lt;/h3&gt;
+ &lt;span class="platform-tag"&gt;macOS&lt;/span&gt;&lt;span class="platform-tag"&gt;Safari Extension&lt;/span&gt;
+ &lt;p class="app-desc"&gt;
+ A powerful Safari Web Extension that transforms your YouTube experience with 11 customizable features — auto unmute, skip ads, remove shorts, auto best quality, keep original language, smart recommendations, and more.
+ &lt;/p&gt;</description></item><item><title>Contact</title><link>https://lbenicio.dev/single/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lbenicio.dev/single/contact/</guid><description>&lt;p&gt;Get in touch for questions, collaboration, or opportunities. You can also use the main contact page.&lt;/p&gt;
+&lt;h2 id="email"&gt;Email&lt;/h2&gt;
+&lt;p&gt;You can reach me directly at &lt;a href="mailto:hi@lbenicio.dev"&gt;hi@lbenicio.dev&lt;/a&gt; or use the form below:&lt;/p&gt;
+&lt;div class="mt-6"&gt;
+ 
+ 
+ &lt;section class="w-full px-4 pr-4"&gt;
+ &lt;h2 class="sr-only"&gt;Contact and PGP&lt;/h2&gt;
+ &lt;div class="grid grid-cols-1 md:grid-cols-2 gap-6 w-full" style="width: 80vw;"&gt;
+ &lt;div&gt;
+ &lt;h2 class="text-2xl font-semibold tracking-tight"&gt;Send a Message&lt;/h2&gt;
+ &lt;p class="text-sm text-muted-foreground"&gt;Fill out the form and I will reply as soon as possible. Encrypted messages supported via OpenPGP.&lt;/p&gt;
+ &lt;form data-contact-form class="space-y-4 mt-4 w-full" method="post" action="#" onsubmit="return submitContact(event)"&gt;
+ 
+ &lt;div style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;" aria-hidden="true"&gt;
+ &lt;label for="hp"&gt;Leave this field empty&lt;/label&gt;
+ &lt;input data-hp name="hp" type="text" autocomplete="off" tabindex="-1" /&gt;
+ &lt;/div&gt;
+ &lt;div class="grid grid-cols-2 gap-3"&gt;
+ &lt;div&gt;
+ &lt;label for="first_name" class="block text-sm font-medium mb-1"&gt;First name&lt;/label&gt;
+ &lt;input data-first-name name="first_name" type="text" required class="w-full rounded-md border bg-background px-3 py-2 text-sm focus:outline-none focus:ring focus:ring-ring" /&gt;
+ &lt;/div&gt;
+ &lt;div&gt;
+ &lt;label for="last_name" class="block text-sm font-medium mb-1"&gt;Last name&lt;/label&gt;
+ &lt;input data-last-name name="last_name" type="text" required class="w-full rounded-md border bg-background px-3 py-2 text-sm focus:outline-none focus:ring focus:ring-ring" /&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div&gt;
+ &lt;label for="email" class="block text-sm font-medium mb-1"&gt;Email&lt;/label&gt;
+ &lt;input data-email name="email" type="email" required class="w-full rounded-md border bg-background px-3 py-2 text-sm focus:outline-none focus:ring focus:ring-ring" /&gt;
+ &lt;/div&gt;
+ &lt;div&gt;
+ &lt;label for="subject" class="block text-sm font-medium mb-1"&gt;Subject&lt;/label&gt;
+ &lt;input data-subject name="subject" type="text" class="w-full rounded-md border bg-background px-3 py-2 text-sm focus:outline-none focus:ring focus:ring-ring" /&gt;
+ &lt;/div&gt;
+ &lt;div&gt;
+ &lt;label for="text" class="block text-sm font-medium mb-1"&gt;Message&lt;/label&gt;
+ &lt;textarea data-text name="text" rows="5" required class="w-full rounded-md border bg-background px-3 py-2 text-sm focus:outline-none focus:ring focus:ring-ring"&gt;&lt;/textarea&gt;
+ &lt;/div&gt;
+ &lt;div class="flex items-center gap-3"&gt;
+ &lt;label class="inline-flex items-center gap-2 text-sm cursor-pointer"&gt;
+ &lt;input data-encrypt type="checkbox" class="h-4 w-4" /&gt;
+ Encrypt with PGP
+ &lt;/label&gt;
+ &lt;span data-pgp-error class="text-xs text-red-600 hidden"&gt;&lt;/span&gt;
+ &lt;/div&gt;
+ &lt;div class="flex items-center gap-3"&gt;
+ &lt;button data-contact-submit type="submit" class="px-4 py-2 text-sm border rounded hover:bg-muted"&gt;Send Message&lt;/button&gt;
+ &lt;div data-contact-loading class="hidden text-sm text-muted-foreground"&gt;Sending...&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/form&gt;
+ &lt;div data-contact-toast class="hidden max-w-none rounded-md px-4 py-3 shadow-lg mt-4" role="status" aria-live="polite"&gt;&lt;/div&gt;
+
+ &lt;script id="contact-config" type="application/json"&gt;
+ 
+ {"authToken":"XQKURG66oM4coZZDRQi990QL5iLXNjxA3X1z8GPshFHUwV5ldy8oPZ6pBfeo3qIRe161P330zhI9umgX/eVQNX2Rge7VenGatdKLNQ4qRELAu3I0WPGc+bx9Lx5izIWVifLydmcnzyVKumt36eIZiEhNWAdzkHH4ho6fxzql+JpOqKkOBGUYm77VAHkbfXBwdJheXy4phi9ltZEXEcC7X4fzfev8WsAidM2XKVPA7hyIBrTrDTKFkZ1UhTUcOpmso/WFOGAtzEv0SUEuR4r5JZ8yFmKWqEJL3mOzjIBR2hrRaPw8lNGOJWjMjtK5t22fLLwEpNsW7HBaWW9MCrTT18050m6Sffoy89r1sQt3I0Fc5HruxceCTUzDKGf3KQHiCL/w4lNc4kULaVBY","email":"hi@lbenicio.dev","name":"Leonardo Benicio","postUrl":"https://formbold.com/s/3nqz5"}
+ &lt;/script&gt;
+
+ &lt;script&gt;
+ (function(){
+ const contactConfigEl = document.getElementById('contact-config');
+ const contactConfig = contactConfigEl ? JSON.parse(contactConfigEl.textContent || '{}') : {};
+ const contactPostUrl = contactConfig.postUrl || '';
+ const contactAuthToken = contactConfig.authToken || '';
+
+ function qs(sel){ return document.querySelector(sel); }
+ function getVal(sel){ const el = qs(sel); return el ? el.value.trim() : ''; }
+ function getChecked(sel){ const el = qs(sel); return el ? el.checked : false; }
+
+ try {
+ const raw = localStorage.getItem('contact:unsent');
+ if (raw) {
+ const obj = JSON.parse(raw);
+ if (obj.first_name) qs('[data-first-name]').value = obj.first_name;
+ if (obj.last_name) qs('[data-last-name]').value = obj.last_name;
+ if (obj.email) qs('[data-email]').value = obj.email;
+ if (obj.subject) qs('[data-subject]').value = obj.subject;
+ if (obj.text) qs('[data-text]').value = obj.text;
+ if (obj.encrypt) qs('[data-encrypt]').checked = obj.encrypt;
+ }
+ } catch(e){}
+
+ ['[data-hp]','[data-first-name]','[data-last-name]','[data-email]','[data-subject]','[data-text]','[data-encrypt]'].forEach(sel=&gt;{
+ const el = qs(sel); if (!el) return; el.addEventListener('input', ()=&gt;{
+ try{
+ const obj = { hp: getVal('[data-hp]')||'', first_name: getVal('[data-first-name]')||'', last_name: getVal('[data-last-name]')||'', email: getVal('[data-email]')||'', subject: getVal('[data-subject]')||'', text: getVal('[data-text]')||'', encrypt: getChecked('[data-encrypt]')||false };
+ localStorage.setItem('contact:unsent', JSON.stringify(obj));
+ }catch(e){}
+ });
+ });
+
+ function setLoading(on){ const btn = qs('[data-contact-submit]'); const loading = qs('[data-contact-loading]'); if(!btn||!loading) return; if(on){ btn.disabled=true; loading.classList.remove('hidden'); } else { btn.disabled=false; loading.classList.add('hidden'); } }
+
+ function showToast(msg, withRetry=false){ const t = qs('[data-contact-toast]'); if(!t) return; t.innerHTML=''; t.classList.remove('hidden'); t.style.background = withRetry ? '#fff7ed' : '#ecfeff'; t.style.color = withRetry ? '#92400e' : '#065f46'; const span = document.createElement('span'); span.innerText = msg; t.appendChild(span);
+ if (withRetry){ const retryBtn = document.createElement('button'); retryBtn.type='button'; retryBtn.className='ml-3 px-2 py-1 text-sm border rounded'; retryBtn.innerText='Retry'; retryBtn.addEventListener('click', ()=&gt;{ const raw = localStorage.getItem('contact:lastPayload'); if(!raw) return; try{ const p = JSON.parse(raw); if(p.first_name) qs('[data-first-name]').value = p.first_name; if(p.last_name) qs('[data-last-name]').value = p.last_name; if(p.email) qs('[data-email]').value = p.email; if(p.subject) qs('[data-subject]').value = p.subject; if(p.text) qs('[data-text]').value = p.text; qs('[data-encrypt]').checked = !!p.encrypt; submitContact(null, true); }catch(e){ console.warn('retry parse failed', e); } }); t.appendChild(retryBtn); }
+ const close = document.createElement('button'); close.type='button'; close.className='ml-2 px-2'; close.innerText='x'; close.addEventListener('click', ()=&gt; t.classList.add('hidden')); t.appendChild(close); if(!withRetry) setTimeout(()=&gt; t.classList.add('hidden'), 4000);
+ }
+
+ async function submitContact(e, retrying=false){ if(e &amp;&amp; e.preventDefault) e.preventDefault();
+ const hp = getVal('[data-hp]');
+ const firstName = getVal('[data-first-name]');
+ const lastName = getVal('[data-last-name]');
+ const email = getVal('[data-email]');
+ const subject = getVal('[data-subject]');
+ const text = getVal('[data-text]');
+ const encrypt = getChecked('[data-encrypt]');
+ try{ localStorage.setItem('contact:unsent', JSON.stringify({ first_name:firstName,last_name:lastName,email,subject,text,encrypt })); }catch(e){}
+ try{ localStorage.setItem('contact:lastPayload', JSON.stringify({ hp, first_name:firstName, last_name:lastName, email, subject, text, encrypt })); }catch(e){}
+
+ if (!contactPostUrl){
+ const body = 'Name: ' + firstName + ' ' + lastName + '\nEmail: ' + email + '\n\nMessage:\n' + text;
+ if (encrypt) { try { await navigator.clipboard.writeText(body); } catch(e){} showToast('PGP: message copied to clipboard.'); }
+ const mailto = 'mailto:' + encodeURIComponent(contactConfig.email) + '?subject=' + encodeURIComponent('Contact from ' + (firstName||'')) + '&amp;body=' + encodeURIComponent(body);
+ try{ localStorage.removeItem('contact:unsent'); }catch(e){}
+ window.location.href = mailto; return false;
+ }
+
+ setLoading(true);
+ try{
+ let bodyToSend = { hp, first_name: firstName, last_name: lastName, email, text, encrypt };
+ if (encrypt){
+ try{ await import('/assets/js/openpgp-shim.mjs'); }catch{ console.warn('Failed to load OpenPGP'); }
+ try{
+ const keyRes = await fetch('\/static\/pgp\/public.asc', { cache: 'force-cache' }); if(!keyRes.ok) throw new Error('key load failed'); const publicArmored = await keyRes.text(); const pubKey = await openpgp.readKey({ armoredKey: publicArmored }); const clear = 'Name: ' + firstName + ' ' + lastName + '\nEmail: ' + email + '\n\nMessage:\n' + text; const encrypted = await openpgp.encrypt({ message: await openpgp.createMessage({ text: clear }), encryptionKeys: pubKey }); bodyToSend = { hp, first_name: firstName, last_name: lastName, email, text: encrypted, encrypted: true };
+ }catch(err){ console.warn('Encryption failed', err); }
+ }
+
+ const data = { from: { email: email, name: (firstName + ' ' + lastName).trim() }, subject: subject, text: encrypt ? (bodyToSend.text || '') : text };
+ const headers = { 'Content-Type': 'application/json' };
+ if (contactAuthToken &amp;&amp; String(contactAuthToken).length) headers['Authorization'] = String(contactAuthToken);
+ const res = await fetch(contactPostUrl, { method: 'POST', headers, body: JSON.stringify(data) });
+ setLoading(false);
+ if (res.ok){ showToast('Message sent - thank you!'); const form = qs('[data-contact-form]'); if(form) form.reset(); try{ localStorage.removeItem('contact:unsent'); localStorage.removeItem('contact:lastPayload'); }catch(e){} return false; }
+ const txt = await res.text(); showToast('Submission failed: ' + (txt || res.statusText), true); return false;
+ }catch(err){ setLoading(false); showToast('Submission failed: ' + (err &amp;&amp; err.message ? err.message : 'network error'), true); return false; }
+ }
+
+ const formEl = qs('[data-contact-form]'); if(formEl) formEl.addEventListener('submit', submitContact);
+ window.submitContact = submitContact;
+ })();
+ &lt;/script&gt;
+ &lt;/div&gt;
+
+ &lt;div&gt;
+ &lt;h2 class="text-2xl font-semibold tracking-tight"&gt;PGP Public Key&lt;/h2&gt;
+ &lt;p class="text-sm text-muted-foreground"&gt;Import this key to send encrypted email. Copy or download the armored block.&lt;/p&gt;</description></item><item><title>Newsletter</title><link>https://lbenicio.dev/single/newsletter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lbenicio.dev/single/newsletter/</guid><description>&lt;p&gt;Subscribe to my monthly newsletter where I share updates, essays, and selected readings.&lt;/p&gt;</description></item><item><title>Socials</title><link>https://lbenicio.dev/single/socials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lbenicio.dev/single/socials/</guid><description>&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;svg class="h-4 w-4 inline-block align-middle mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" role="img"&gt;&lt;title&gt;Twitter&lt;/title&gt;&lt;path d="M23 3a10.9 10.9 0 01-3.14 1.53A4.48 4.48 0 0016.5 3c-2.5 0-4.5 2.24-4 4.7A12.94 12.94 0 013 4s-4 9 5 13a13 13 0 01-8 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"/&gt;&lt;/svg&gt; Twitter: &lt;a href="https://twitter.com/lbenicio_"&gt;lbenicio_&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;svg class="h-4 w-4 inline-block align-middle mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" role="img"&gt;&lt;title&gt;LinkedIn&lt;/title&gt;&lt;path d="M4.98 3.5C4.98 4.88 3.88 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1 4.98 2.12 4.98 3.5zM0 8h5v16H0V8zm7 0h4.78v2.18h.07c.67-1.27 2.31-2.61 4.75-2.61 5.08 0 6.02 3.35 6.02 7.71V24H17v-8.03c0-1.92-.03-4.39-2.68-4.39-2.69 0-3.1 2.1-3.1 4.26V24H7V8z"/&gt;&lt;/svg&gt; LinkedIn: &lt;a href="https://www.linkedin.com/in/leonardo-benicio"&gt;leonardo-benicio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;svg class="h-4 w-4 inline-block align-middle mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" role="img"&gt;&lt;title&gt;GitHub&lt;/title&gt;&lt;path d="M12 .5C5.65.5.5 5.76.5 12.19c0 5.13 3.44 9.47 8.2 11.01.6.11.82-.26.82-.58 0-.29-.01-1.05-.02-2.06-3.34.74-4.04-1.6-4.04-1.6-.55-1.4-1.34-1.77-1.34-1.77-1.09-.75.08-.74.08-.74 1.2.09 1.84 1.24 1.84 1.24 1.07 1.85 2.8 1.32 3.48 1.01.11-.79.42-1.32.77-1.62-2.67-.31-5.47-1.36-5.47-6.05 0-1.34.47-2.43 1.23-3.29-.12-.31-.54-1.56.12-3.24 0 0 1.01-.33 3.3 1.25a11.26 11.26 0 016 0c2.28-1.58 3.29-1.25 3.29-1.25.67 1.68.25 2.93.12 3.24.77.86 1.23 1.95 1.23 3.29 0 4.7-2.81 5.73-5.48 6.03.43.38.82 1.12.82 2.25 0 1.62-.01 2.92-.01 3.32 0 .32.21.69.83.57A11.73 11.73 0 0023.5 12.19C23.5 5.76 18.35.5 12 .5z"/&gt;&lt;/svg&gt; GitHub: &lt;a href="https://github.com/lbenicio"&gt;lbenicio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;svg class="h-4 w-4 inline-block align-middle mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" role="img"&gt;&lt;title&gt;Reddit&lt;/title&gt;&lt;path d="M22 12.4c0-1.9-1.5-3.4-3.4-3.4-.9 0-1.7.3-2.3.8-1.7-1.1-3.8-1.8-6.1-1.9l1.1-4.9 2.9.7c0 1.1.9 2 2 2s2-.9 2-2-0.9-2-2-2-2 .9-2 2c0 .2.02.4.06.6l-3.7-.9c-.2-.05-.4.06-.46.28L9.2 8.6C5.6 9.1 2.6 12.2 2.6 15.9c0 3.7 3 6.7 6.7 6.7 2.5 0 4.6-1.4 5.7-3.4 1.2.6 2.7.9 4.2.9 2.6 0 4.6-1.7 4.6-3.9 0-1.5-1-2.7-2.7-3.1.8-.4 1.3-1.1 1.3-1.9z"/&gt;&lt;/svg&gt; Reddit: &lt;a href="https://www.reddit.com/user/lbenicio"&gt;u/lbenicio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;svg class="h-4 w-4 inline-block align-middle mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true" role="img"&gt;&lt;title&gt;Email&lt;/title&gt;&lt;path d="M3 8.5l9 6 9-6" stroke-linecap="round" stroke-linejoin="round"/&gt;&lt;path d="M21 6H3v12h18V6z" stroke-linecap="round" stroke-linejoin="round"/&gt;&lt;/svg&gt; Email: &lt;a href="mailto:hi@lbenicio.dev"&gt;hi@lbenicio.dev&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;svg class="h-4 w-4 inline-block align-middle mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" role="img"&gt;&lt;title&gt;Instagram&lt;/title&gt;&lt;path d="M7 2h10a5 5 0 015 5v10a5 5 0 01-5 5H7a5 5 0 01-5-5V7a5 5 0 015-5zm5 6.5A4.5 4.5 0 1016.5 13 4.5 4.5 0 0012 8.5zM18 6.2a1.2 1.2 0 11-1.2-1.2A1.2 1.2 0 0118 6.2z"/&gt;&lt;/svg&gt; Instagram: &lt;a href="https://www.instagram.com/lbenicio_"&gt;lbenicio_&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;svg class="h-4 w-4 inline-block align-middle mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" role="img"&gt;&lt;title&gt;Buyme a coffee&lt;/title&gt;&lt;path d="M18 8h1a3 3 0 010 6h-1v1a3 3 0 01-3 3H8a3 3 0 01-3-3V8a3 3 0 013-3h7a3 3 0 013 3zM6 8v8"/&gt;&lt;/svg&gt; Buyme a coffee: &lt;a href="https://www.buymeacoffee.com/lbenicio"&gt;lbenicio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;svg class="h-4 w-4 inline-block align-middle mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" role="img"&gt;&lt;title&gt;BlueSky&lt;/title&gt;&lt;path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm3.8 15.2c-.4.5-1.2.7-2 .7-2.4 0-4.1-1.9-4.1-4.8 0-2.3 1.2-4.1 3.2-4.1.9 0 1.7.4 2.1 1l-.4.5c-.4-.3-.8-.5-1.4-.5-1.2 0-2.2 1.1-2.2 2.9 0 2 1 3.2 2.4 3.2.8 0 1.4-.2 1.9-.7l.5.7z"/&gt;&lt;/svg&gt; BlueSky: &lt;a href="https://bsky.app/profile/lbenicio.bsky.social"&gt;lbenicio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;svg class="h-4 w-4 inline-block align-middle mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" role="img"&gt;&lt;title&gt;YouTube&lt;/title&gt;&lt;path d="M23.5 6.2a3 3 0 00-2.1-2.1C19.7 3.5 12 3.5 12 3.5s-7.7 0-9.4.6A3 3 0 000 6.2 31.7 31.7 0 000 12a31.7 31.7 0 000 5.8 3 3 0 002.1 2.1c1.7.6 9.4.6 9.4.6s7.7 0 9.4-.6a3 3 0 002.1-2.1A31.7 31.7 0 0024 12a31.7 31.7 0 00-.5-5.8zM9.8 15.5v-7l6 3.5-6 3.5z"/&gt;&lt;/svg&gt; YouTube: &lt;a href="https://www.youtube.com/channel/@lbenicio"&gt;@lbenicio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;svg class="h-4 w-4 inline-block align-middle mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" role="img"&gt;&lt;title&gt;Mastodon&lt;/title&gt;&lt;path d="M12 2C7 2 3 6 3 11c0 4.2 3 7.5 7 8.5v2.5c0 .3.2.5.5.5.2 0 .4-.1.5-.2l2.7-2.7c1.3.2 2.6.2 4-.1 1.6-.3 2.9-1.3 3.5-2.8.4-1.1.4-2.2.2-3.2-.5-2.6-2.7-4.7-5.2-5.6C16.7 3 14.5 2 12 2z"/&gt;&lt;/svg&gt; Mastodon: &lt;a href="https://mastodon.social/@lbenicio"&gt;@lbenicio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
