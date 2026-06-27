@@ -1,29 +1,29 @@
-# Stage 1
+# Stage 1 — build the site
 FROM alpine:latest AS build
 
-# Install dependencies
-RUN apk add --update --no-cache npm hugo
+# Install Hugo Extended and Go
+RUN apk add --update --no-cache hugo go git
 
-RUN hugo version
+# Allow Go to download required toolchain version (go.mod requires >=1.26.4, Alpine ships 1.26.3)
+ENV GOTOOLCHAIN=auto
 
-WORKDIR /opt/app
+RUN hugo version && go version
+
+WORKDIR /src
 
 COPY . .
 
-# install node dependencies
-RUN npm ci
+# Download Hugo modules
+RUN hugo mod get
 
-# Run Hugo in the Workdir to generate HTML.
-RUN hugo --minify --environment production
+RUN hugo --minify --environment production --cleanDestinationDir
+RUN go run github.com/lbenicio/aboutme-v2-theme/cmd/obfuscate@latest ./public || true
 
-# Stage 2
+# Stage 2 — serve
 FROM nginx:alpine
 
-# Set workdir to the NGINX default dir.
 WORKDIR /usr/share/nginx/html
 
-# Copy HTML from previous build into the Workdir.
-COPY --from=build /opt/app/public .
+COPY --from=build /src/public .
 
-
-EXPOSE 80/tcp
+EXPOSE 80

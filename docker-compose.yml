@@ -1,4 +1,3 @@
-version: '3.7'
 services:
   hugo:
     build:
@@ -8,4 +7,4 @@ services:
     ports:
       - 1313:1313
     volumes:
-      - .:/opt/app
+      - .:/src

@@ -1,19 +1,10 @@
 # hugo
-public
+public/
 .hugo_build.lock
-resources
-
-# NodeJS
-node_modules
+resources/
 
 # macOS
 .DS_Store
 
-# tmp
-tmp
-
 # VS Code
 .vscode
-
-# environemnt
-.env
