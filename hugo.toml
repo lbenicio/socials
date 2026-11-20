@@ -57,10 +57,12 @@ siteUrl = "https://socials.lbenicio.dev/"
 appMode = "SINGLE"
 singleContent = "content/single/socials.md"
 
-# Umami analytics
-umamiWebsiteId = "c3cde340-7e81-480f-a38a-dc20a57081fa"
-umamiScriptUrl = "https://analytics.4686189.xyz/script.js"
-
 # Legal links
 privacyUrl = "https://legal.lbenicio.dev/docs/privacy-policy"
 termsUrl = "https://legal.lbenicio.dev/docs/terms-of-service"
+
+[services.googleAnalytics]
+id = "G-MPL28R835T"
+
+[privacy.googleAnalytics]
+respectDoNotTrack = true
